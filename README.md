@@ -5,18 +5,6 @@
 
 ---
 
-## 📚 Table of Contents
-
-- [Description](#description)
-- [Features](#features)
-- [Usage](#usage)
-- [Installation](#installation)
-- [Testing](#testing)
-- [Limitations](#limitations)
-- [Author](#author)
-
----
-
 ## 📝 Description
 
 `get_next_line` is a function that reads from a file descriptor one line at a time. It is especially useful when parsing files or standard input line by line.
